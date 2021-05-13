@@ -11,7 +11,7 @@
     echo "Nombre de usuario: $username
     <br>Contraseña: $password
     <br>Lugar de residencia: $country
-    <br>Sexo: $sexo
+    <br>Sexo: $sexo.
     
     <br><br>$username ha publicado el siguiente archivo: $formFile
     <br>$username ha realizado el siguiente comentario: '$textarea'
